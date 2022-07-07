@@ -1,0 +1,6 @@
+- 👋 sobre min
+- 👀 ola meu nome e banana03
+- 🌱 meu email de contato e lara.erika@escola.pr.gov.br
+- 💞️ eu estou interessado em programar novas limguagen.
+- 📫 eu estou aprendendo a programar recentemente a linguagen de javaScript
+- 
